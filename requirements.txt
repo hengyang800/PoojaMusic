@@ -16,7 +16,7 @@ pyrogram==2.0.106
 python-dotenv
 pyyaml
 requests
-speedtest-cli
+git+https://github.com/eSportxD/Catyt@master
 spotipy
 tgcrypto
 unidecode
