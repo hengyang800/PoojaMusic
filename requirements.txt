@@ -20,6 +20,6 @@ git+https://github.com/eSportxD/Catyt@master
 spotipy
 tgcrypto
 unidecode
-git+https://github.com/eSportxD/Catyt
+git+https://github.com/eSportxD/Catspeed
 youtube-search
 youtube-search-python
